@@ -1,3 +1,19 @@
 body{
     background-color: blue;
 }
+
+header{
+    background-color: aqua;
+}
+
+main{
+    background-color: blueviolet;
+}
+
+footer{
+    background-color: antiquewhite;
+}
+
+aside{
+    background-color: green;
+}
