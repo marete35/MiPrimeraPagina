@@ -1,1 +1,1 @@
-alert("Bienvenido...son y un script");
+/*alert("Bienvenido...son y un script");*/
